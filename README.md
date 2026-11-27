@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavosouzapdro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gustavosouzap@protonmail.com"><img src="https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://wa.me/5511975465766"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <img src="https://img.shields.io/github/followers/stavososa?style=for-the-badge&logo=github&label=Seguidores&color=14213D" alt="Seguidores">
 </p>
 
@@ -93,7 +94,7 @@ Estudo continuamente IA aplicada, arquitetura de agentes e boas práticas de des
 
 ## 📫 Vamos conversar?
 
-Se você quer trocar ideia sobre IA, automação ou SEO, me chame no [LinkedIn](https://www.linkedin.com/in/gustavosouzapdro/) ou por [e-mail](mailto:gustavosouzap@protonmail.com).
+Se você quer trocar ideia sobre IA, automação ou SEO, me chame no [LinkedIn](https://www.linkedin.com/in/gustavosouzapdro/), no [WhatsApp](https://wa.me/5511975465766) ou por [e-mail](mailto:gustavosouzap@protonmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0B7A8C&height=100&section=footer" alt="Rodapé">
