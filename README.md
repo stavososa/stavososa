@@ -43,20 +43,38 @@ Aprendo construindo: testo, erro, ajusto e documento o que descubro.
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,postgres,redis,supabase,python&perline=10" alt="Código e dados">
 </p>
 
-**Infra e versionamento**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,docker,linux,git,github,gcp,vscode&perline=10" alt="Infra">
-</p>
-
 **IA e automação**
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant">
   <img src="https://img.shields.io/badge/Pinecone-1C17FF?style=for-the-badge" alt="Pinecone">
+</p>
+
+**Integrações, APIs e mensageria**
+
+<p>
+  <img src="https://img.shields.io/badge/API-REST-0B7A8C?style=for-the-badge" alt="API REST">
+  <img src="https://img.shields.io/badge/CRM-Integra%C3%A7%C3%B5es-14213D?style=for-the-badge" alt="CRM">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+</p>
+
+**Infra e deploy**
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner">
+  <img src="https://img.shields.io/badge/CyberPanel-4A90D9?style=for-the-badge" alt="CyberPanel">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,docker,linux,git,github,gcp,vscode&perline=10" alt="Infra e versionamento">
 </p>
 
 **SEO e analytics**
@@ -64,7 +82,9 @@ Aprendo construindo: testo, erro, ajusto e documento o que descubro.
 <p>
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
   <img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console">
+  <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge" alt="Google Trends">
   <img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" alt="Semrush">
+  <img src="https://img.shields.io/badge/Ubersuggest-FF7A00?style=for-the-badge" alt="Ubersuggest">
   <img src="https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge" alt="Microsoft Clarity">
   <img src="https://img.shields.io/badge/Bing_Webmaster-258FFA?style=for-the-badge&logo=bing&logoColor=white" alt="Bing Webmaster">
 </p>
